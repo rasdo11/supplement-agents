@@ -19,9 +19,12 @@ jobs:
         with:
           node-version: '24'
 
+      - name: Install dependencies
+        run: npm install
+
       - name: Run daily agents
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           ROSS_EMAIL: ${{ secrets.ROSS_EMAIL }}
         run: node agents/daily-briefing.mjs
