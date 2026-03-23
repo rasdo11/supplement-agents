@@ -1,0 +1,31 @@
+name: Daily Agent Briefing
+
+on:
+  schedule:
+    # Runs at 7:00 AM Eastern Time (12:00 UTC during EDT, 12:00 UTC during EST)
+    # Adjust the hour if you want a different delivery time
+    - cron: '0 12 * * *'
+  
+  # Also allow manual trigger for testing
+  workflow_dispatch:
+
+jobs:
+  run-agents:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run daily agents
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          ROSS_EMAIL: ${{ secrets.ROSS_EMAIL }}
+        run: node agents/daily-briefing.mjs
