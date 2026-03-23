@@ -116,7 +116,7 @@ async function runAgent(systemPrompt, agentName) {
 
 async function sendEmail(to, subject, body) {
   const GMAIL_APP_PASSWORD = process.env.GMAIL_APP_PASSWORD;
-  const FROM_ADDRESS = 'ross@withratio.com';
+  const FROM_ADDRESS = 'ross.asdo@gmail.com';
 
   if (!GMAIL_APP_PASSWORD) {
     console.log('\nNo GMAIL_APP_PASSWORD set. Printing briefing to console:\n');
