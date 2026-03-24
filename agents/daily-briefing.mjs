@@ -198,7 +198,7 @@ async function main() {
   ].join('\n');
 
   const subject = `Agent Briefing — ${dayName} ${dateStr}`;
-  const recipient = process.env.ROSS_EMAIL || 'ross@withratio.com';
+  const recipient = process.env.ROSS_EMAIL || 'ross.asdo@gmail.com';
 
   await sendEmail(recipient, subject, emailBody);
 
