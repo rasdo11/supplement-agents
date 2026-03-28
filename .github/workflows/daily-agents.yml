@@ -12,16 +12,27 @@ jobs:
     
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Setup Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v5
         with:
-          node-version: '20'
+          node-version: '24'
+
+      - name: Install dependencies
+        run: npm install
 
       - name: Run daily agents
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           ROSS_EMAIL: ${{ secrets.ROSS_EMAIL }}
         run: node agents/daily-briefing.mjs
+
+      - name: Commit briefing to repo
+        run: |
+          git config user.name "Supplement Agents"
+          git config user.email "ross.asdo@gmail.com"
+          git add BRIEFINGS.md
+          git diff --staged --quiet || git commit -m "Briefing: $(date +%Y-%m-%d)"
+          git push
