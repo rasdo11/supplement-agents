@@ -28,3 +28,11 @@ jobs:
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           ROSS_EMAIL: ${{ secrets.ROSS_EMAIL }}
         run: node agents/daily-briefing.mjs
+
+      - name: Commit briefing to repo
+        run: |
+          git config user.name "Supplement Agents"
+          git config user.email "ross.asdo@gmail.com"
+          git add BRIEFINGS.md
+          git diff --staged --quiet || git commit -m "Briefing: $(date +%Y-%m-%d)"
+          git push
