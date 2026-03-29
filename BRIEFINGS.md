@@ -183,3 +183,107 @@
 [Formulation Scientist ERROR: API 429 — {"type":"error","error":{"type":"rate_limit_error","message":"This request would exceed your organization's rate limit of 30,000 input tokens per minute (org: d6f6bc79-25f5-42e0-8fc8-c29f79963eef, model: claude-sonnet-4-6). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://claude.com/contact-sales to discus]
 
 ---
+## Sunday, 2026-03-29
+
+### Sourcing
+
+**SOURCING BRIEFING — Alternative Manufacturers — March 29, 2026**
+
+---
+
+**🔑 TOP FINDING: Pure Private Label has the single lowest confirmed MOQ in the market at 144 units — a near-perfect match for Ross's 150 pre-order "batch drop" model.**
+
+---
+
+**Key Manufacturers Worth Evaluating:**
+
+- **Pure Private Label (pureprivatelabel.com)** — Their low 144-unit MOQ gives founders the choice to start or expand a brand with multiple products. They handle both custom formulations and private label formulas, and claim the fastest turnaround times in the industry. This is the strongest MOQ match for Ross's 150 pre-order trigger.
+
+- **Nutracap (Norcross, GA — nutracapusa.com)** — MOQ is 500 units for a custom formula and 300 units for white label formulations. They claim the fastest custom sample turnaround time in the industry, averaging 10 days from start to shipping. Production lead time is approximately 8–12 weeks. ⚠️ BBB reviews show mixed signals: one client noted early runs went smoothly but communication became inconsistent later. One reviewer concluded Nutracap may suit larger companies, but smaller businesses should explore alternatives.
+
+- **Vox Nutrition (Utah — close to Vitalpax)** — Their state-of-the-art supplement manufacturing facility has the capacity to produce more than 200 million capsules per month, making them the largest supplement encapsulation company in Utah. Two GMP-mandated labs are available for raw material testing, and they stock over $10 million worth of raw materials, enabling price quotes within 24–48 hours and a four-week turnaround time.
+
+- **SMP Nutra** — A fast-growing company specializing in capsule, tablet, powder, and gummy forms, with $20M+ in raw material inventory; they offer price quotes within 24–48 hours and guarantee a four-week turnaround.
+
+- **Well Aliments (wellaliments.com)** — The absolute floor for MOQ: MOQ as low as 144 bottles for private label formulas. FDA-registered, GMP-compliant, handles capsules. A direct competitor to Pure Private Label worth quoting against.
+
+- **Auri Nutra (NYC — New York-based, close to Ross's existing vendors)** — With their streamlined GMP-certified facility, most products are ready for shipment within 4–6 weeks, depending on formulation and batch size. They allow starting orders as small as 100 units while offering custom formulations and fast turnarounds.
+
+---
+
+**MOQ Landscape Benchmark (2026):**
+
+MOQs for capsule supplements vary widely — from as low as 100–1,000 bottles for small brands on pre-made formulas, to 2,500–5,000+ bottles for custom formulations. Custom formulas carry R&D fees of $2,000–$10,000+ per SKU, and most manufacturers set capsule MOQs at 2,500–5,000 units. The ultra-low MOQ providers are primarily white/private label, not fully custom — a key tradeoff Ross must weigh.
+
+---
+
+**RECOMMENDED ACTION:**
+Contact **Pure Private Label** and **Well Aliments** today and request quotes for a creatine monohydrate + magnesium glycinate capsule at 150 units (matching your pre-order trigger). Ask specifically: (1) Do they have an existing stock formula combining both ingredients? (2) What is the per-unit cost at 150 vs. 500 units? (3) What is current lead time for first run? If either has a stock formula, you may be able to skip custom R&D fees entirely and cut launch costs dramatically.
+
+### Science
+
+**SCIENCE BRIEFING — Competitive Formulation Analysis — Sunday, March 29, 2026**
+
+---
+
+## 🏆 KEY FINDING: The Market Is Overcrowded With Powder/Single-Ingredient Products — A Combined Creatine + Magnesium Glycinate Capsule Has Real Whitespace
+
+---
+
+### 📊 CREATINE: WHAT THE MARKET LOOKS LIKE RIGHT NOW
+
+**Dominant Form:** Creatine monohydrate is the most researched form and is considered the gold standard. Every credible "best of 2026" list leads with it.
+
+**Standard Dose:** Top-ranked products use 5g (powder) or 4.5g across 6 capsules (e.g., NOW Sports). Additional ingredients in capsule formats are minimal — typically hypromellose (vegetable cellulose) and stearic acid from vegetable source.
+
+**Capsule Reality Check:** Each 4.5g serving requires 6 capsules — a standard dosage for capsule formats, but a major drawback for some consumers. This is a critical problem for Ross. **At 1.5–3g creatine, your capsule count is far more manageable.**
+
+**Premium Ingredient Signal:** Creapure® — German-manufactured creatine monohydrate — is widely regarded for exceptional purity and is prominently featured by brands like Thorne, Momentous, and BPN. This is table stakes for premium positioning.
+
+**Certification Standard:** Top brands carry NSF Certified for Sport or Informed Sport verification, publish batch-specific Certificates of Analysis, and operate from GMP-certified facilities.
+
+---
+
+### 📊 MAGNESIUM: WHAT THE MARKET LOOKS LIKE RIGHT NOW
+
+**Search Demand:** Magnesium glycinate commands 823,000 monthly searches (+22% YoY) — the preferred form for sleep and relaxation, with glycine acting as a calming neurotransmitter for synergistic effect.
+
+**Top Brands in Glycinate:** Doctor's Best High Absorption Magnesium Glycinate and Pure Encapsulations Magnesium Glycinate dominate.
+
+**Standard Glycinate Dose:** 200–400mg daily, usually taken in the evening to relax muscles before sleep or after workouts.
+
+**Key Label Risk:** A recent lawsuit against a popular brand alleged products were mislabeled regarding their form of magnesium — and a separate product in a recent review was also found to have its form mislabeled. **This is a real differentiation opportunity** — COAs verifying exact magnesium form are a trust-builder.
+
+**Multi-Form Trend:** The top-selling multi-mag product (MagEnhance) uses 1000mg Magtein® L-Threonate + 690mg Magnesium Glycinate + 630mg Magnesium Taurate, in vegetable cellulose capsules with microcrystalline cellulose and silicon dioxide as excipients. This is a 3-capsule product and is priced at a premium.
+
+---
+
+### 📊 CREATINE + MAGNESIUM COMBINATION: GENUINE WHITESPACE
+
+Creatine magnesium chelate combines creatine with magnesium in a pairing that may enhance absorption and utilization, providing additional performance benefits through magnesium's role in muscle function — though more research is needed.
+
+Companies like Thorne and Momentous have launched creatine products for neurological performance and sarcopenia prevention, often combined with adaptogens or nootropics like magnesium L-threonate. However, **a clean creatine monohydrate + magnesium glycinate capsule targeting women's wellness does not yet appear as a dominant SKU on the top-10 lists.**
+
+**Market Tailwind:** Between 2020 and 2025, magnesium became the fastest-growing ingredient in global supplement launches with a 37% increase, with 46% of consumers globally actively seeking it when purchasing supplements.
+
+**Women's Search Surge:** "Creatine for women" is up +123% in searches as the compound sheds its male-only stigma.
+
+---
+
+### 🚩 WHERE COMPETITORS ARE WEAK (YOUR OPENINGS)
+
+| Gap | Competitor Reality | Ross Opportunity |
+|---|---|---|
+| **Capsule count** | 6 caps for 5g creatine | 3–4 caps for 2g creatine + 200mg Mg glycinate |
+| **Form labeling** | Mislabeling scandals, lawsuits | COA-verified form on label + QR code per batch |
+| **Women's positioning** | Afterthought ("also for women") | Native audience; wellness/longevity framing |
+| **Freshness/batch** | Mass production, no batch transparency | Made-to-order, batch number, COA downloadable |
+| **Magnesium type** | Many use oxide or undisclosed forms | Explicitly "glycinate" — the premium, calming form |
+
+---
+
+**FORMULA RECOMMENDATION:**
+
+Lock in **Creapure® creatine monohydrate (2g) + magnesium glycinate (200mg elemental) in a vegetable cellulose (HPMC) capsule with microcrystalline cellulose as the only excipient** — 3 capsules per serving. This hits a meaningful creatine dose for non-athletic women (supported by emerging lower-dose evidence), delivers magnesium glycinate at the clinically used range, keeps the capsule count at 3, and uses the same clean excipient stack used by Pure Encapsulations and Intelligent Labs — the purity benchmarks your target customer already trusts. Publish a batch-specific COA with every order. No competitor in the women's wellness capsule space is currently doing this combination at this dose with this transparency.
+
+---
