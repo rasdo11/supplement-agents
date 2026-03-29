@@ -9,10 +9,14 @@ jobs:
   run-agents:
     runs-on: ubuntu-latest
     timeout-minutes: 15
-    
+    permissions:
+      contents: write
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Node.js
         uses: actions/setup-node@v5
@@ -35,4 +39,4 @@ jobs:
           git config user.email "ross.asdo@gmail.com"
           git add BRIEFINGS.md
           git diff --staged --quiet || git commit -m "Briefing: $(date +%Y-%m-%d)"
-          git push
+          git push origin HEAD
