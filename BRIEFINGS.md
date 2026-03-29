@@ -176,17 +176,6 @@
 
 ### Sourcing
 
-[Sourcing Agent ERROR: API 429 — {"type":"error","error":{"type":"rate_limit_error","message":"This request would exceed your organization's rate limit of 30,000 input tokens per minute (org: d6f6bc79-25f5-42e0-8fc8-c29f79963eef, model: claude-sonnet-4-6). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://claude.com/contact-sales to discus]
-
-### Science
-
-[Formulation Scientist ERROR: API 429 — {"type":"error","error":{"type":"rate_limit_error","message":"This request would exceed your organization's rate limit of 30,000 input tokens per minute (org: d6f6bc79-25f5-42e0-8fc8-c29f79963eef, model: claude-sonnet-4-6). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://claude.com/contact-sales to discus]
-
----
-## Sunday, 2026-03-29
-
-### Sourcing
-
 **SOURCING BRIEFING — Alternative Manufacturers — March 29, 2026**
 
 ---
