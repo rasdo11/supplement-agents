@@ -276,3 +276,106 @@ Companies like Thorne and Momentous have launched creatine products for neurolog
 Lock in **Creapure® creatine monohydrate (2g) + magnesium glycinate (200mg elemental) in a vegetable cellulose (HPMC) capsule with microcrystalline cellulose as the only excipient** — 3 capsules per serving. This hits a meaningful creatine dose for non-athletic women (supported by emerging lower-dose evidence), delivers magnesium glycinate at the clinically used range, keeps the capsule count at 3, and uses the same clean excipient stack used by Pure Encapsulations and Intelligent Labs — the purity benchmarks your target customer already trusts. Publish a batch-specific COA with every order. No competitor in the women's wellness capsule space is currently doing this combination at this dose with this transparency.
 
 ---
+## Monday, 2026-03-30
+
+### Sourcing
+
+---
+
+## SOURCING BRIEFING — Manufacturer Intel — March 30, 2026
+
+**🔑 MOST IMPORTANT FINDING: Makers Nutrition is the standout option for a bootstrap launch. They have 442+ client reviews, BBB accreditation, a verified 4-week turnaround claim, and are explicitly positioned for startups — while NutraScience Labs has a BBB complaint on record (with no response filed) and Vitalpax has the thinnest independent review footprint of the three.**
+
+---
+
+### MAKERS NUTRITION (Commack, NY)
+- Consistently ranked among the fastest-growing companies in America, Makers Nutrition continues to excel in 2026 due to their accessibility — and while many large manufacturers have raised MOQs to prohibitive levels, Makers Nutrition remains supportive of growing brands.
+- Facility is FDA-registered and NSF GMP certified, with fast turnaround times of **4–6 weeks** for many standard products. Best for startups and mid-sized brands needing high-touch service.
+- Minimum orders for stock product start around **1,000 units**, and they assign project managers to guide clients through formulation, testing, packaging, and delivery.
+- One client review specifically confirms: "Makers Nutrition lived up to the promise of 4 week turnaround time." On-site reviews number 442+ (Birdeye) with overwhelmingly positive sentiment. No notable independent complaints found.
+- In-house FDA compliance for label review is highlighted as a key differentiator, saving clients time and legal fees.
+
+---
+
+### NUTRASCIENCE LABS (Farmingdale, NY)
+- Claims 50+ years of nutraceutical manufacturing experience, with price quotes delivered within an average of **48 business hours** and dedicated 24/7/365 account management.
+- Well-established U.S.-based manufacturer, FDA-registered and GMP-certified, serving startups and established brands alike.
+- ⚠️ **Red flag**: NutraScience Labs is **not BBB Accredited**, and has a failure to respond to at least 1 complaint filed against the business.
+- NutraScience Labs is a subsidiary of Twinlab Consolidation Corporation — a large corporate parent, which may mean less flexibility and attention for a small bootstrap order.
+
+---
+
+### VITALPAX (LaVerkin, UT)
+- Vitalpax claims their products and services are on average **37% less than competitors** — the most aggressive pricing claim of the three.
+- MOQs vary by dosage form and are discussed during scoping. Notably, **pilot or small-batch runs are explicitly available** to de-risk scale-up and generate market test inventory — a direct fit for a batch-drop model.
+- Certifications include cGMP (via SGS), USDA Organic, Kosher, and Halal — strong for a wellness/longevity brand narrative.
+- Vitalpax participated in the 2025 NPA Fly-In Day, signaling active industry engagement. However, independent client reviews are scarce; most intel comes from their own marketing channels.
+
+---
+
+### RECOMMENDED ACTION:
+**Request a formal quote from all three this week** — but lead with Makers Nutrition. Call their sales line (1-844-625-3771) and specifically ask: (1) minimum unit count for a custom 2-ingredient capsule (creatine + magnesium glycinate), (2) confirmed lead time for a first run, and (3) whether they can accommodate a pre-order/batch drop production trigger. Use Vitalpax's 37% cost claim as leverage in pricing negotiations.
+
+### Science
+
+**SCIENCE BRIEFING — Stability Science — Monday, March 30, 2026**
+
+---
+
+## 🔬 LEAD FINDING: The "Freshness" Angle Is Nuanced — and That's Your Opportunity
+
+Creatine monohydrate is *remarkably* stable as a dry powder — the science is definitive on this. But the real "freshness" risk isn't time-on-shelf; **it's manufacturer quality control at time of production.** This is the angle to lean into.
+
+---
+
+### 1. Dry Powder Stability: Science Says It's Very Strong
+
+Creapure creatine monohydrate has shown no signs of degradation for more than three years, even when stored above 100°F (40°C), with creatinine detected only in trace amounts after more than three-and-a-half years.
+
+Only when creatine is exposed to temperatures of about 140°F for *four years* do signs of significant degradation start to occur.
+
+**⚠️ FLAG FOR MARKETING:** "Freshest batch" cannot defensibly imply that older creatine monohydrate *powder* is meaningfully degraded. A well-stored 18-month-old batch has essentially the same potency as a week-old one.
+
+---
+
+### 2. The Creatinine Conversion Story — Where It Gets Real
+
+The primary pathway for creatine degradation is its conversion into creatinine — a waste product the body naturally produces and excretes that offers none of the performance-enhancing benefits. This conversion process is called hydrolysis.
+
+Creatine is *not* stable in liquid solution — it degrades to creatinine quickly, especially in an acidic beverage and at high temperatures. It's recommended to consume creatine shortly after it's mixed.
+
+**✅ Capsule format advantage here:** Capsules prevent any pre-dissolution, locking out the primary degradation pathway entirely. This is a legitimate, science-backed reason to choose capsules over pre-mixed formats.
+
+---
+
+### 3. The Biggest Real "Freshness" Risk: Production Quality, Not Shelf Age
+
+The breakdown of creatine during manufacturing or storage can produce creatinine. Levels above one percent have been measured in some commercial creatine samples. In competitor products, creatinine is not dangerous but offers no performance benefit and indicates sloppy manufacturing.
+
+In one analytical study of 36 commercial creatine monohydrate supplements, approximately 41.67% of samples had purity *below* 80%, the acceptable range per USP standards.
+
+Food-grade creatine often ranges from approximately 95–99% purity, with the remaining percentage consisting of synthesis byproducts like creatinine or dicyandiamide.
+
+---
+
+### 4. The Premium Standard: Creapure® / Creavitalis®
+
+While independent analyses regularly detect concerning levels of impurities in ordinary creatine, Creapure® guarantees a purity of at least 99.9% — a difference proven by over 50 scientific studies.
+
+Creatinine targets for top-grade creatine material are less than 0.1% (vs. up to 1%+ in generic sources).
+
+Women naturally have lower creatine stores than men. During perimenopause and menopause, hormonal changes can further affect muscle efficiency and energy metabolism — making higher-quality creatine with better bioavailability more relevant for this population.
+
+---
+
+### 5. Where the "Freshness" Claim *Is* Defensible
+
+The reframe: **freshness = purity traceability per batch, not time since manufacture.** Properly produced creatine monohydrate typically has a shelf life of 24–36 months if stored at controlled temperature and humidity — high moisture or heat exposure shortens shelf life and increases creatinine. A made-to-order model allows you to: (a) use a certified source like Creapure®/Creavitalis® with lot-specific COAs, (b) minimize warehouse storage time where temperature/humidity control may lapse, and (c) market transparent batch traceability.
+
+---
+
+## FORMULA RECOMMENDATION:
+
+**Source Creapure® or Creavitalis® (AlzChem, Germany) as your creatine input and make batch-level COAs publicly accessible via QR code on packaging.** This transforms "freshness" from a time-based claim (scientifically weak for dry powder) into a **purity and traceability claim** (scientifically strong and defensible). Pair with the capsule format — it's the *only* delivery form that eliminates aqueous degradation risk entirely before consumption, giving you a legitimate, science-backed product story to tell your target customer.
+
+---
