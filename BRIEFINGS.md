@@ -379,3 +379,89 @@ The reframe: **freshness = purity traceability per batch, not time since manufac
 **Source Creapure® or Creavitalis® (AlzChem, Germany) as your creatine input and make batch-level COAs publicly accessible via QR code on packaging.** This transforms "freshness" from a time-based claim (scientifically weak for dry powder) into a **purity and traceability claim** (scientifically strong and defensible). Pair with the capsule format — it's the *only* delivery form that eliminates aqueous degradation risk entirely before consumption, giving you a legitimate, science-backed product story to tell your target customer.
 
 ---
+## Tuesday, 2026-03-31
+
+### Sourcing
+
+**SOURCING BRIEFING — Pricing Research — March 31, 2026**
+
+---
+
+**🔑 MOST IMPORTANT FINDING:**
+Capsules are the most cost-efficient supplement format available — and your two-ingredient formula (creatine + magnesium glycinate) puts you at the low end of the manufacturing cost spectrum. The hard truth for Ross: standard industry MOQs (2,500–5,000 units) will require a **first-run budget of ~$5,000–$20,000**, which is out of sync with the 150 pre-order batch-drop model. The solution is targeting manufacturers who offer white-label/private-label MOQs as low as 300–500 units.
+
+---
+
+**📊 KEY FINDINGS:**
+
+- **Per-unit manufacturing cost (capsules, material + labor, excl. packaging):** Capsules/tablets run **$0.20–$1.50/unit**. For a simple 2-ingredient formula like creatine + magnesium glycinate, expect to sit near the **low end (~$0.20–$0.40/unit)**. Industry research confirms tablets and capsules are the most cost-effective form, ranging from **$0.03–$0.10/unit** at scale for basic formulas.
+
+- **MOQ tiers — what the market actually looks like in 2026:**
+  - White Label / Low-Volume: **500–1,000 units**; Standard Manufacturing: **2,500 units**; High-Volume/Specialized: **10,000+ units.**
+  - Nutracap (an alternative US manufacturer) offers a custom formula MOQ of just **500 units** and white-label MOQs as low as **300 units.** This is the closest publicly documented match to Ross's 150-unit batch-drop target.
+  - Most custom manufacturers set a MOQ of **2,500–5,000 units/SKU** for capsules, tablets, or powder pouches.
+
+- **Total first-run budget reality check:** A first run often totals **$5,000–$10,000** and takes **8–12 weeks** from formulation to finished goods. That estimate is for standard 2,500-unit runs. At 500 units with a simple private-label formula, expect closer to $2,000–$4,000 all-in based on market norms. Most new brands begin with **$5,000–$20,000**, depending on product type and MOQ.
+
+- **Hidden cost landmines:** Packaging adds: label printing **$0.03–$0.15/unit**, bottles **$0.20–$1.00/unit**, boxes **$0.10–$0.70/unit.** Rush orders typically add a **fast-lane fee of 10–20% extra.** Third-party testing (potency, micro, heavy metals) adds another **$1,000–$3,000 per product.**
+
+- **Scale economics — why 150 units is painful:** Lower MOQ = higher price per unit. A 10,000-bottle batch may cost **20–35% less per bottle** than a smaller run. At 150 units, per-unit costs could be **2–4x higher** than at 2,500 units.
+
+- **Makers Nutrition positioning in 2026:** Makers Nutrition continues to offer low MOQs compared to industry peers and remains "supportive of growing brands." Turnaround times are **4–6 weeks** for many standard products. NutraScience, by contrast, is "particularly renowned for high-volume capabilities" and is best suited for brands needing to produce millions of units for retail. — making it a **poor fit** for Ross's batch-drop model.
+
+---
+
+**✅ RECOMMENDED ACTION:**
+Call **Nutracap** (publicly confirmed 300-unit white-label MOQ) and **Makers Nutrition** this week and ask both the same question: *"What is your absolute minimum order for a 2-ingredient capsule (creatine monohydrate + magnesium glycinate), using a stock/white-label formula, with standard HDPE bottle packaging — and what is the all-in per-unit cost at 150, 300, and 500 units?"* Use Nutracap's answer as leverage when negotiating with Makers Nutrition. NutraScience should be deprioritized for your launch run — they're built for scale, not bootstrapped batch drops.
+
+### Science
+
+## SCIENCE BRIEFING — Magnesium Forms Deep Dive — 2026-03-31
+
+---
+
+### 🔬 LEAD FINDING: Glycinate wins for your formula — but threonate has stronger recent clinical data for cognition + sleep.
+
+---
+
+### MAGNESIUM GLYCINATE — The Formulator's Workhorse
+
+Magnesium glycinate binds magnesium to glycine, an amino acid that independently promotes relaxation and lowers core body temperature — a dual mechanism that makes it the strongest option for sleep quality and anxiety reduction.
+
+The most recent RCT (2025, *Nature and Science of Sleep*): 28 days of magnesium bisglycinate (250mg elemental + 1,523mg glycine) produced modest but statistically significant improvements in insomnia severity scores in adults with self-reported primary insomnia — supporting it as a non-pharmacological option for mild insomnia.
+
+⚠️ **Honest caveat:** There isn't a lot of research specific to magnesium glycinate and sleep — it's hard to find peer-reviewed literature on the form specifically, as many studies don't specify which type of magnesium was used. Mayo Clinic echoes this: while magnesium is often marketed to help with relaxation, sleep and mood, it hasn't been proven in human studies.
+
+**For your target (women 30-45):** Magnesium glycinate is the best starting point for perimenopause because it addresses the most common complaints: insomnia, anxiety, and muscle tension. Recommended dose: 320mg of magnesium glycinate in capsule form, one to two hours before bed for women.
+
+---
+
+### MAGNESIUM L-THREONATE — Stronger Cognitive & Sleep Evidence
+
+Two significant RCTs published in 2024–2025:
+
+1. ***Sleep Medicine X* (2024, PMC):** 80 participants aged 35–55 with self-assessed sleep problems took 1g/day of MgT or placebo for 21 days. MgT improved sleep quality — especially deep/REM sleep stages — and improved mood, energy, alertness, and daily activity and productivity.
+
+2. ***Frontiers in Nutrition* (2025, Magtein RCT):** Healthy adults taking 2g of Magtein daily for six weeks showed improvements in memory, attention, reaction time, and overall cognitive performance versus placebo, with sleep scores also improving. A reduction in resting heart rate and increase in HRV during sleep were also demonstrated, suggesting Magtein may increase parasympathetic activity.
+
+**Why it works:** The L-threonate ligand plays a mechanistic role — preclinical research shows threonate is mediated through glucose transporters, which enhances magnesium bioavailability and enables significant increases in brain magnesium concentrations.
+
+**Cost flag:** The effective dose is 1,500–2,000mg of magnesium threonate (delivering only 144mg elemental magnesium), costing significantly more — typically $30–$50/month versus $10–$20 for glycinate.
+
+---
+
+### MAGNESIUM CITRATE — Eliminate for Your Use Case
+
+Magnesium citrate has high bioavailability but a natural osmotic laxative effect — making it ideal for constipation relief and general repletion, but unsuitable for bedtime use if loose stools are a concern. Not appropriate for a wellness/sleep formula.
+
+---
+
+### ⚠️ FLAG FOR ROSS
+
+The best-evidenced form for **cognitive function** is threonate (Magtein®), not glycinate — but threonate's required dose (1.5–2g of compound) would add 3–4 capsules alone, blowing your capsule budget. Glycinate at 200–400mg elemental fits the formula. The science for glycinate's sleep benefit exists but is modest — position it as "nervous system support" rather than making direct sleep claims.
+
+---
+
+**FORMULA RECOMMENDATION:** Keep magnesium glycinate as specified (200–400mg elemental). Target the upper end — **320mg elemental** — matching the clinically studied dose and women's RDA. This requires confirming the elemental content on your Supplement Facts panel, as the amount listed is often the total compound weight, not elemental magnesium — a 500mg capsule of magnesium glycinate might contain only 70–100mg of actual magnesium. Size your capsules accordingly.
+
+---
