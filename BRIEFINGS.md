@@ -605,3 +605,101 @@ At 1.5–3g, **cognitive enhancement claims for healthy, well-nourished women 30
 Request samples + batch-specific COAs from **two Chinese mag glycinate suppliers** (Lifeworth and Xi'an International Healthcare Factory) AND one **Creapure®/Creavitalis® licensed distributor** for creatine, then send all samples to a US-based ISO-accredited third-party lab (e.g., Eurofins or Informed Sport) for independent heavy metals and purity verification before committing to any supplier — use this testing process itself as early brand content ("We tested 3 suppliers before we found our source").
 
 ---
+## Wednesday, 2026-04-01
+
+### Sourcing
+
+Here is today's briefing:
+
+---
+
+## SOURCING BRIEFING — Raw Material Costs — April 1, 2026
+
+**🔑 MOST IMPORTANT FINDING: Creatine monohydrate is currently in a buyer's market — prices are reportedly significantly lower than early 2025 levels — making this an opportune window to lock in ingredient contracts before costs rebound.**
+
+---
+
+### CREATINE MONOHYDRATE
+
+- **Price Range (Chinese commodity-grade, 99%+ purity):** Competitive bulk pricing sits at roughly **$15 for smaller (1kg) orders and ~$5/kg for bulk purchases of 25 kg or more.** Separately, a recent Indian export record shows creatine monohydrate shipped to the U.S. at approximately **$7.80/kg** for a 348 kg order in August 2025.
+
+- **Market Timing:** For international buyers and supplement brands, current creatine prices are reportedly **50% lower than early 2025 levels**, making now a strategic time to secure contracts.
+
+- **Premium Option — Creapure® (AlzChem, Germany):** Creapure® is 99.9% pure creatine monohydrate, and while independent analyses regularly detect concerning impurity levels in ordinary creatine, Creapure® guarantees a higher purity standard. AlzChem is the **only manufacturer of creatine monohydrate outside of China**, and its Creapure® is considered the "gold standard" in the food industry. Expect a significant price premium vs. Chinese generic (~2–4x). No public B2B pricing; requires direct inquiry. Notably, AlzChem just announced a **€120M investment** in a new automated production plant for creatine and its precursors, signaling long-term supply security — relevant if Ross wants to position around Creapure as a brand differentiator for his women's wellness audience.
+
+- **Key US-based distributors:** Vivion (custom quote, no public pricing), Nutri Avenue (FDA-registered, ISO certified, sample available), Green Jeeva (25 kg MOQ, COA provided).
+
+---
+
+### MAGNESIUM GLYCINATE
+
+- **Price Range (Chinese suppliers, high-volume):** Bulk powder from suppliers like Lianyungang Huachang runs as low as **$4.40/kg at 999+ kg orders**, representing a ~60% cost reduction versus capsule-format purchasing. For more typical B2B orders (Q3 2025 benchmark), pricing ranges from **$25–$60/kg depending on MOQ, packaging (1 kg vs. 25 kg drums), and shipping terms (FOB/CIF).**
+
+- **Real-World Trade Data:** A May 2025 shipment from India to New York was recorded at approximately **$8.30/kg for a 500 kg order** — a useful benchmark for mid-size, pharma-grade imports.
+
+- **Why it's pricier than creatine:** The chelation process that bonds magnesium with glycine enhances bioavailability and absorption compared to other magnesium forms, which drives up production costs. Expect magnesium glycinate to cost **3–6x more per kg** than creatine monohydrate at equivalent order volumes.
+
+- **Purity spec to demand:** Each batch should be tested for assay (≥98%), heavy metals, microbial safety, and solubility — always require a COA from any supplier.
+
+- **Key US-friendly suppliers:** Nutri Avenue (5 US warehouses, third-party tested), Green Jeeva (25 kg MOQ, sourced from China), Maxmedchem (MOQ 25 kg, FDA/Halal/Kosher certified, U.S. warehouse).
+
+---
+
+### ROUGH COST-OF-GOODS ESTIMATE FOR ROSS (per 150-unit batch)
+
+Assuming a 30-serving pouch with **5g creatine + 200mg elemental magnesium (≈1.1g magnesium glycinate) per serving:**
+- ~22.5 kg creatine monohydrate needed → **~$160–$225 at $7–10/kg**
+- ~5 kg magnesium glycinate needed → **~$125–$300 at $25–60/kg**
+- **Total raw material cost for 150 units: ~$285–$525**, or roughly **$2–$3.50/unit** in raw ingredients alone (before manufacturing, packaging, or shipping).
+
+---
+
+**RECOMMENDED ACTION:** Request samples + COAs from **two suppliers for each ingredient** — specifically **Nutri Avenue** (US-based, ISO certified, low friction) and **Green Jeeva** (25 kg MOQ, well-documented) for magnesium glycinate, and either a Chinese commodity supplier *or* Creapure/AlzChem for creatine (the Creapure angle is a genuine brand story for women 30–45 wellness positioning). Do this *this week* while creatine prices are reportedly near multi-year lows.
+
+### Science
+
+---
+
+## SCIENCE BRIEFING — Dosing Optimization — April 1, 2026
+
+---
+
+### 🔑 LEAD FINDING: 3g/day is NOT sufficiently supported for cognitive claims — and going below it makes it worse.
+
+The dose question is the single most commercially dangerous issue for this formula. Here's what the evidence actually says:
+
+---
+
+### What Dose Does What?
+
+**The blood-brain barrier problem is real.**
+Creatine monohydrate supplementation has been reported to increase brain creatine content by only 5–15%. Because creatine does not cross the blood–brain barrier readily, researchers recommend consuming **10 g/day** to promote cognitive benefit.
+
+**Low-dose studies (<3g) fail consistently.**
+The UK's National Health Claims Committee concluded that a cause-and-effect relationship has **not** been established between consumption of ≤3g/day creatine and improved cognitive function. Corroborating this, the only RCT reviewed by EFSA at ≤3g/day used approximately 2.2 g/day for 6 weeks — and **no significant differences** were observed between creatine and placebo groups in any cognitive endpoint.
+
+**Even higher doses are inconsistent in young, healthy adults.**
+Six weeks of moderate- (10 g/day) and high-dose (20 g/day) creatine supplementation did not improve cognitive performance in healthy young adults. The leading explanation: young, healthy adults may simply have higher baseline brain creatine levels, reducing the room for supplementation to show effect.
+
+---
+
+### Where Cognitive Benefits *Are* Seen
+
+Stressed individuals' cognition *can* benefit from creatine supplementation — but there is **little effect on non-stressed people.**
+
+The meta-analysis with the strongest signal found: creatine showed significant positive effects on **memory, attention time, and processing speed** — but NO significant improvement on overall cognitive function or executive function. Subgroup analyses revealed benefits were greatest in individuals with diseases, those aged 18–60, and **females specifically.**
+
+Oral creatine may improve short-term memory and intelligence/reasoning in healthy individuals, with findings suggesting **particular benefit for aging and stressed individuals.**
+
+---
+
+### ⚠️ FLAG — Where Science Doesn't Support the Marketing
+
+The 1.5g dose in the current formula range is **below the threshold where any cognitive benefit has been established**. No RCT has demonstrated a cognitive effect at 1.5g/day. The 3g ceiling is itself unproven for cognition per EFSA (2024) and UKNHCC (2024) formal reviews. For non-athletic, wellness-focused women aged 30–45 who are not sleep-deprived or cognitively stressed, the cognitive benefit signal is weakest. Muscle energy and physical wellness remain better-supported claims at lower doses.
+
+---
+
+### FORMULA RECOMMENDATION:
+**Anchor the formula at 3g creatine monohydrate as a firm minimum**, not a variable range. Frame cognitive claims narrowly around **"supports mental energy during periods of fatigue"** (a defensible, stress-dependent use case) rather than broad cognitive enhancement. Do NOT go to 1.5g for the cognitive story — reserve that only as a market entry/starter dose with no cognitive claims attached. Consider testing a **3g + 200mg magnesium glycinate** single-serve stick pack as the hero SKU, where cognitive and relaxation benefits work in tandem rather than creatine carrying the full cognitive load alone.
+
+---
