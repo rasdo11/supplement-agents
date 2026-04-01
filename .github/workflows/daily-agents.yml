@@ -29,7 +29,7 @@ jobs:
       - name: Run daily agents
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           ROSS_EMAIL: ${{ secrets.ROSS_EMAIL }}
         run: node agents/daily-briefing.mjs
 

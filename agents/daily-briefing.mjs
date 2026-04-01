@@ -117,11 +117,10 @@ async function runAgent(systemPrompt, agentName) {
 
 
 async function sendEmail(to, subject, body) {
-  const GMAIL_APP_PASSWORD = process.env.GMAIL_APP_PASSWORD;
-  const FROM_ADDRESS = 'ross.asdo@gmail.com';
+  const RESEND_API_KEY = process.env.RESEND_API_KEY;
 
-  if (!GMAIL_APP_PASSWORD) {
-    console.log('\nNo GMAIL_APP_PASSWORD set. Printing briefing to console:\n');
+  if (!RESEND_API_KEY) {
+    console.log('\nNo RESEND_API_KEY set. Printing briefing to console:\n');
     console.log(`TO: ${to}`);
     console.log(`SUBJECT: ${subject}`);
     console.log('─'.repeat(50));
@@ -130,31 +129,29 @@ async function sendEmail(to, subject, body) {
     return;
   }
 
-  const { default: nodemailer } = await import('nodemailer');
-
-  const transporter = nodemailer.createTransport({
-    host: 'smtp.gmail.com',
-    port: 465,
-    secure: true,
-    auth: {
-      user: FROM_ADDRESS,
-      pass: GMAIL_APP_PASSWORD,
+  const response = await fetch('https://api.resend.com/emails', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      'Authorization': `Bearer ${RESEND_API_KEY}`,
     },
+    body: JSON.stringify({
+      from: 'Supplement Agents <onboarding@resend.dev>',
+      to: [to],
+      subject: subject,
+      text: body,
+    }),
   });
 
-  try {
-    await transporter.sendMail({
-      from: `Supplement Agents <${FROM_ADDRESS}>`,
-      to,
-      subject,
-      text: body,
-    });
-    console.log('Briefing email sent successfully.');
-  } catch (err) {
-    console.error(`Email send failed: ${err.message}`);
+  if (!response.ok) {
+    const errText = await response.text();
+    console.error(`Email send failed: ${response.status} — ${errText}`);
     console.log('\nBriefing content (email failed, logging here):\n');
     console.log(body);
+    return;
   }
+
+  console.log('Briefing email sent successfully.');
 }
 
 
