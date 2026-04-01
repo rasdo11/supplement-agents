@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: '0 12 * * *'
   workflow_dispatch:
+    inputs:
+      research_request:
+        description: 'Optional ad-hoc research request for the Research Agent'
+        required: false
+        default: ''
 
 jobs:
   run-agents:
@@ -31,6 +36,7 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           ROSS_EMAIL: ${{ secrets.ROSS_EMAIL }}
+          RESEARCH_REQUEST: ${{ inputs.research_request }}
         run: node agents/daily-briefing.mjs
 
       - name: Commit briefing to repo
