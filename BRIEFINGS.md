@@ -465,3 +465,143 @@ The best-evidenced form for **cognitive function** is threonate (Magtein®), not
 **FORMULA RECOMMENDATION:** Keep magnesium glycinate as specified (200–400mg elemental). Target the upper end — **320mg elemental** — matching the clinically studied dose and women's RDA. This requires confirming the elemental content on your Supplement Facts panel, as the amount listed is often the total compound weight, not elemental magnesium — a 500mg capsule of magnesium glycinate might contain only 70–100mg of actual magnesium. Size your capsules accordingly.
 
 ---
+## Wednesday, 2026-04-01
+
+### Sourcing
+
+---
+
+**SOURCING BRIEFING — Raw Material Costs — April 1, 2026**
+
+---
+
+**🔑 MOST IMPORTANT FINDING: Magnesium glycinate is your cost wildcard — it runs significantly more expensive per kg than creatine monohydrate, and the two ingredients have very different supplier ecosystems. Budgeting them separately is critical.**
+
+---
+
+**CREATINE MONOHYDRATE — Pricing & Suppliers**
+
+- **Generic (Chinese-sourced) creatine monohydrate:** Priced competitively at approximately $5/kg for bulk purchases of 25 kg or more from commodity wholesale channels. This is your floor price for generic Chinese-sourced material.
+
+- **Premium Creapure® (German):** Alzchem's creatine monohydrate is marketed under the Creapure® brand to major producers of sport nutrition supplements worldwide — manufacturers displaying the Creapure® logo signal their product contains a premium-quality ingredient of trusted origin from Germany. Creapure commands a significant price premium over generic Chinese creatine — expect roughly 2–3x the commodity price. This is a meaningful brand differentiator for Ross's women's wellness positioning. Notably, Alzchem is investing €120M into an increasingly automated production plant for creatine and its precursors, ensuring the entire creatine value chain. New capacity comes online in stages starting 2H 2027, so near-term supply is tight on Creapure.
+
+- **Key US ingredient distributors for creatine:** Vivion offers wholesale creatine monohydrate starting from just 25 kg. Other domestic options include **Nutri Avenue** (FDA-registered, 5 US warehouses), **Green Jeeva** (25 kg MOQ, 24-hr US shipping), and **BulkSupplements Wholesale** (25 kg drums).
+
+- **Minimum mesh/spec to request:** 200-mesh micronized creatine monohydrate promotes improved solubility and smoother texture compared with coarser grades — critical for a powder blend product targeting women who will be mixing this daily.
+
+---
+
+**MAGNESIUM GLYCINATE — Pricing & Suppliers**
+
+- **Bulk MOQ standard:** Major suppliers provide bulk magnesium glycinate powder with a 25 kg MOQ, suitable for private label brands and repackaging. Some require 100 kg for wholesale pricing tiers.
+
+- **Important formulation note:** Magnesium glycinate powder is 12% elemental magnesium by weight. This means to deliver a 200mg elemental magnesium dose per serving, you need ~1.67g of the chelate powder — meaning magnesium glycinate is a *high-volume* ingredient in a powder blend.
+
+- **Key US suppliers:** **Green Jeeva** (US warehouse, 25 kg MOQ, COA/MSDS provided), **Nutri Avenue** (FDA-registered, with five local US inventories providing dynamic access to raw materials at competitive wholesale pricing), and **Maxmedchem** (100 kg MOQ, direct-from-factory sourcing, with global export experience and US warehouse).
+
+- **Taste warning:** Consumer reviews of raw magnesium glycinate powder note it can be noticeably bitter/unpleasant in plain water. At least one reviewer noted "the only thing that stops me from giving this 5 stars is that it's just wretched tasting." This is a real formulation challenge for Ross's product — flavoring or masking agents will likely be necessary.
+
+---
+
+**RECOMMENDED ACTION:**
+Request samples + COAs from **three suppliers in parallel this week**: (1) **Nutri Avenue** for both ingredients (FDA-registered, US stock, competitive pricing), (2) **Green Jeeva** for magnesium glycinate specifically (25 kg MOQ, US warehouse, 24-hr ship), and (3) **Vivion** for creatine monohydrate. Mix each raw magnesium glycinate sample with water and taste-test it — you need to confirm now whether your formula requires a flavoring agent, which will affect your contract manufacturer's formulation scope and unit cost.
+
+### Science
+
+**SCIENCE BRIEFING — Dosing Optimization — April 1, 2026**
+
+---
+
+### 🔑 LEAD FINDING: 1.5–3g Is Underdosed for Cognitive Effects, But May Hit a Sweet Spot for Women's Wellness
+
+The single most important finding for Ross today: **cognitive benefits from creatine are highly dose- and population-dependent, and your 1.5–3g range sits at the low end of what science supports for brain outcomes.** Here's the full breakdown:
+
+---
+
+### Dose-Response Reality Check
+
+Dosages of 20g and over have shown the most consistent results in terms of increasing brain creatine levels in healthy populations. Meanwhile, 6 weeks of moderate (10g/day) and high-dose (20g/day) creatine supplementation does not improve cognitive performance or alter prefrontal cortex activation levels in healthy young adults. The brain is simply harder to saturate than muscle.
+
+At the low end — directly relevant to your formula — one randomized, double-blind, placebo-controlled study in 22 young adults used ~2.2g/day (0.03g/kg) and assessed memory, alertness, and logical reasoning over 6 weeks. No significant differences were observed between the creatine and placebo groups in any of these endpoints.
+
+In a 2024 EFSA review of a proposed 3g/day cognitive health claim, the panel considers that a study does not show an effect of creatine at a dose of 3g/day for 4 weeks on any measure of cognition.
+
+---
+
+### Where 3g Does Work: "Stressed" Populations
+
+The science gets more favorable when the user is under physiological stress. Creatine supplementation has been put forward as a possible cognitive aid particularly for vegans, vegetarians, the elderly, and sleep-deprived individuals. Creatine supplementation can increase brain creatine stores, which may help explain some positive effects on cognition and memory, especially in aging adults or during times of metabolic stress like sleep deprivation.
+
+For memory specifically, a meta-analysis found creatine doses ranging from 2.2–20g/day, regardless of dose, enhanced measures of memory performance in healthy individuals, especially in older adults (66–76 years).
+
+---
+
+### The Women Signal
+
+Subgroup analyses in a 2024 meta-analysis revealed that creatine supplementation was more beneficial in individuals with diseases, those aged 18–60 years, and females. This is a direct win for your target market. Additionally, for women, a continuous daily protocol can be especially beneficial, as it avoids fluctuations that might coincide with hormonal changes throughout the menstrual cycle — supporting stable energy metabolism and performance benefits, particularly during phases of higher fatigue.
+
+---
+
+### 🚩 FLAG: Where Science Doesn't Support the Marketing Angle
+
+At 1.5–3g, **cognitive enhancement claims for healthy, well-nourished women 30–45 are not well-supported by clinical evidence.** EFSA specifically reviewed and rejected a 3g/day cognitive claim in 2024. Claims framed around energy, fatigue reduction, or muscle support are on much firmer scientific and regulatory footing at this dose range.
+
+---
+
+### FORMULA RECOMMENDATION:
+**Set 3g as your standard dose — not lower.** The 1.5g floor is scientifically indefensible for any outcome. Position the 3g dose around **"daily cellular energy support" and "reducing fatigue"** rather than cognitive enhancement, which requires doses 5–20x higher to show reliable brain saturation. Consider adding a clear callout that benefits accumulate with consistent daily use (3–4 weeks), reinforcing the subscription/made-to-order model. Target messaging toward women who are sleep-deprived, peri-menopausal, or vegetarian-leaning, where the evidence at lower doses is strongest.
+
+### Research Request
+
+**RESEARCH BRIEFING — Chinese vs. US Domestic Ingredient Suppliers: Creatine Monohydrate & Magnesium Glycinate — 2026-04-01**
+
+---
+
+**⚡ LEAD FINDING:** Chinese suppliers dominate global supply for both ingredients and offer dramatically lower prices at small MOQs — but quality oversight is inconsistent and the "China-origin" label carries significant marketing risk for a premium DTC brand targeting health-conscious women 30–45. A third, better-positioned option exists: **German-sourced branded creatine (Creapure®/Creavitalis®)** hits the sweet spot of verified quality, international credibility, and a wellness story — at a moderate price premium.
+
+---
+
+**💰 PRICING & MOQ COMPARISON**
+
+- **Chinese Creatine Monohydrate:** Pricing typically ranges from **$8–$15/kg**, with small-volume suppliers on Alibaba (e.g., Zhengzhou Friend Biological) quoting as low as **$9.20/kg** but with a 100 kg MOQ and a notably low reorder rate (18%), indicating inconsistency. Premium Chinese suppliers like Richtek charge **$12.50/kg** but deliver superior documentation and turnaround — more suitable for a brand play. Overall, Chinese creatine prices have seen a **30% year-on-year decline** in 2025 due to weak demand and expanded capacity, making it a buyers' market right now.
+
+- **German Creapure® (Creatine):** No direct B2B bulk price published, but consumer-facing retail signals suggest a significant premium. Every Creapure brand uses German pharmaceutical-grade creatine monohydrate manufactured by AlzChem Trostberg GmbH, tested for DCD, DHT (a suspected carcinogen), and thiourea contamination. Expect **~2–3× the per-kg cost** of Chinese generic, estimated $25–$40/kg landed in small quantities based on retail price signals — but the branded ingredient story is a major DTC asset.
+
+- **Chinese Magnesium Glycinate:** Price ranges from **$14–$22/kg** depending on purity (≥98–99%), certifications (ISO, GMP, FDA), and supplier performance. Bulk magnesium glycinate is widely available in 25 kg fiber drums; most suppliers cater to orders from 100 kg to multi-ton quantities, but several established producers offer reduced MOQs as low as **50 kg** for initial trial orders.
+
+- **US-Based Magnesium Glycinate Distributors:** US distributors (e.g., Vivion, Green Jeeva) re-sell Chinese-origin material domestically. Green Jeeva's product is explicitly sourced from China, offered in pure powder form with a **25 kg MOQ**. Vivion has a minimum order quantity of **40 kg**. Expect a 30–50% price markup over direct-from-China for the domestic convenience and documentation support. True domestic *manufacturing* of magnesium glycinate does not appear to exist at commercial scale.
+
+---
+
+**🔬 QUALITY CERTIFICATIONS & VERIFICATION**
+
+- A proper COA for creatine must include: batch number, purity (≥99% creatine monohydrate), test methods (e.g., HPLC), heavy metals results (lead, arsenic, cadmium, mercury), microbial limits, and dicyandiamide levels.
+
+- While many Chinese facilities are high-tech and follow GMP, **oversight can vary wildly**. Generic Chinese creatine manufacturers typically don't test every batch for dangerous contaminants like DHT. By contrast, Creapure tests **every batch** for these contaminants using HPLC.
+
+- Reputable suppliers must provide third-party lab test reports and COAs that explicitly detail purity, confirm the absence of contaminants like dicyandiamide, and specify results for heavy metals and microbial limits.
+
+- Top-tier third-party certifications for finished products include NSF Certified for Sport and Informed Sport. NSF for Sport tests for over 270 substances banned by major athletic organizations; many bulk suppliers operate in GMP-compliant facilities but rarely invest in batch-by-batch NSF testing.
+
+- Chinese supplier Lifeworth holds cGMP, ISO9001, ISO14001, FSSC22000, BRCGS, Kosher, and Halal certifications — and has passed third-party audits from CQC, SGS, and Intertek — demonstrating that top-tier Chinese suppliers *can* hit premium standards, but due diligence is essential.
+
+---
+
+**📣 IMPLICATIONS FOR PRODUCT & MARKETING DECISIONS**
+
+1. **Origin story matters for your target customer.** Women 30–45 in the wellness space are ingredient-literate and skeptical of opaque sourcing. Branded ingredients like Creapure or Creavitalis provide full supply chain transparency; generic sourcing often cannot. "Sourced from Germany" is a ready-made trust signal; "sourced from China" requires heavy qualification work to neutralize concern.
+
+2. **Creavitalis® is an underutilized alternative to Creapure®** for wellness positioning. Creavitalis® is a specialized grade optimized for health and wellness, featuring precision micronization that dissolves more smoothly in water — a meaningful UX differentiator for a powder format targeting non-athlete women.
+
+3. **COA transparency on your website is table stakes.** Reputable brands prominently display testing protocols and provide access to COAs for specific product batches, detailing the absence of contaminants and declared active ingredient levels. For your batch-drop model, publishing batch-specific COAs per drop could become a distinctive brand ritual.
+
+4. **For magnesium glycinate, a US-based distributor of Chinese-origin material** (e.g., Vivion or Green Jeeva) at a ~25–40 kg MOQ may be your best early-stage option — US-based customer service, documentation support, and the ability to say "distributed through US-certified channels" without making false origin claims.
+
+5. **Tariff risk is real.** Chinese supplement ingredients are subject to ongoing US tariff volatility. Total landed cost (duties, shipping, testing, delays) can erode the price advantage by 20–40% versus sticker price. Consider total landed cost — including shipping, customs, quality verification, and potential delays — when comparing offers.
+
+---
+
+**✅ RECOMMENDED ACTION:**
+Request samples + batch-specific COAs from **two Chinese mag glycinate suppliers** (Lifeworth and Xi'an International Healthcare Factory) AND one **Creapure®/Creavitalis® licensed distributor** for creatine, then send all samples to a US-based ISO-accredited third-party lab (e.g., Eurofins or Informed Sport) for independent heavy metals and purity verification before committing to any supplier — use this testing process itself as early brand content ("We tested 3 suppliers before we found our source").
+
+---
