@@ -1,8 +1,8 @@
-name: Daily Agent Briefing
+name: Weekly Agent Briefing
 
 on:
   schedule:
-    - cron: '0 12 * * *'
+    - cron: '0 12 * * 1'
   workflow_dispatch:
     inputs:
       research_request:
