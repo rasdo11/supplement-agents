@@ -1,5 +1,7 @@
 # Supplement Agent Briefings
 
+> **Format change — April 1, 2026:** Product direction shifted from capsules to **powder format**. Entries before this date reflect the capsule context and are kept for reference. All research from April 1 (afternoon run) onward uses the updated powder context.
+
 ---
 
 ## Tuesday, 2026-03-24
