@@ -705,3 +705,90 @@ The 1.5g dose in the current formula range is **below the threshold where any co
 **Anchor the formula at 3g creatine monohydrate as a firm minimum**, not a variable range. Frame cognitive claims narrowly around **"supports mental energy during periods of fatigue"** (a defensible, stress-dependent use case) rather than broad cognitive enhancement. Do NOT go to 1.5g for the cognitive story — reserve that only as a market entry/starter dose with no cognitive claims attached. Consider testing a **3g + 200mg magnesium glycinate** single-serve stick pack as the hero SKU, where cognitive and relaxation benefits work in tandem rather than creatine carrying the full cognitive load alone.
 
 ---
+## Monday, 2026-04-06
+
+### Sourcing
+
+---
+
+## SOURCING BRIEFING — Manufacturer Intel — April 6, 2026
+
+**🔑 TOP FINDING: Makers Nutrition is the clear frontrunner for Ross's use case. It holds the strongest recent reputation, confirmed powder capabilities, the lowest publicly referenced MOQ (500 units for private label), and a 4-week turnaround that aligns perfectly with a batch-drop model. Vitalpax is a compelling backup with ~8-week lead times. NutraScience has a meaningful red flag: not BBB accredited and on record for failing to respond to at least one complaint.**
+
+---
+
+### MAKERS NUTRITION (Commack, NY)
+- In 2026, Makers Nutrition continues to excel due to their accessibility. While many large manufacturers have raised their MOQs to prohibitive levels, Makers Nutrition remains supportive of growing brands while possessing the capacity to serve enterprise clients.
+- Their private label products are offered at a low MOQ of **500 units** — a strong fit for a 150 pre-order batch-drop trigger. Custom formulations will be higher, but worth asking.
+- Fast turnaround times — **4–6 weeks** for many standard products.
+- At least one client confirmed Makers Nutrition "lived up to the promise of a 4-week turnaround time."
+- Powder manufacturing is flagged as a growing category — "consumers are reaching for powders more than ever" and Makers Nutrition is seeing a spike in requests for custom powders supporting immune health, metabolism, and mental clarity.
+- ✅ FDA-registered, NSF GMP certified. BBB Accredited since 2023. No significant public complaints found.
+
+---
+
+### NUTRASCIENCE LABS (Farmingdale, NY)
+- Headquartered in Farmingdale, NY, their expertise lies in contract manufacturing customized capsule, tablet, powder, and soft gel products. They claim rapid lead times and price quotes delivered within an average of 48 business hours.
+- NutraScience Labs has renewed its cGMP certification via NSF International for its facilities in Farmingdale and Hauppauge, NY (renewed as recently as September 2025).
+- ⚠️ **Red flag:** NutraScience Labs is **NOT BBB Accredited** and has a record of **failure to respond to at least one complaint** filed against the business.
+- ⚠️ Historical legal note: NutraScience Labs was named in a California Prop 65 action related to lead exposure levels in covered products (2020 case). Old, but worth knowing for a wellness-positioned brand.
+- On the positive side, at least one founder reported NutraScience Labs replied to manufacturing inquiries "literally within 24 hours."
+
+---
+
+### VITALPAX (LaVerkin, UT)
+- Established in 2014, Vitalpax is a family-owned business in southern Utah, providing customers with premium quality nutritional products backed by science.
+- Vitalpax holds cGMP, NSF, and USDA Organic certifications, with turnkey services covering R&D to production to marketing across capsule, liquid, softgel, tablet, and other formats.
+- The CEO touts "unbeatable pricing" and a turnaround of about **half the industry average** — "a lot of manufacturers give 4-month lead times; we're more like **8 weeks**." They also handle small-batch manufacturing.
+- MOQs are not published and "vary by dosage form, packaging, and ingredient constraints" — they discuss practical starting volumes during scoping. (You'll need to call to get a number.)
+- Pilot or small-batch runs are explicitly available to de-risk scale-up and generate market test inventory.
+
+---
+
+**RECOMMENDED ACTION:**
+Call Makers Nutrition this week (1-844-625-3771) and request a quote specifically for a **custom powder blend** (creatine monohydrate + magnesium glycinate) at **500–1,000 units**. Confirm whether their 4–6 week lead time applies to powders, not just capsules. Simultaneously, email Vitalpax to get a competing MOQ/price quote for the same formula — their small-batch openness and 8-week lead time make them a strong Plan B.
+
+### Science
+
+# SCIENCE BRIEFING — Stability Science — April 6, 2026
+
+---
+
+## 🔬 LEAD FINDING: Creatine monohydrate is exceptionally stable in dry powder form — but degrades rapidly in solution. The "freshness" angle has nuance.
+
+---
+
+### POWDER STABILITY: Remarkably Strong
+
+The peer-reviewed science here is clear and well-established. At room temperature and even at an increased temperature of 40°C (104°F), creatine monohydrate shows no signs of degradation — creatinine levels stay under the quantification limit of 67 ppm — after more than 3 years. Even under extreme conditions, when stored at 60°C (140°F), creatinine (106 ppm) was only detected after a period of 44 months (Jäger 2003).
+
+This is confirmed by a 2025 multi-analytical study in *Food Research International* that used ATR-FTIR and HRMS techniques, revealing that temperature was the most significant factor affecting creatine stability and that HRMS analysis identified several degradation products. Notably, creatine is generally considered stable in powder form but demonstrates significant instability in aqueous solutions, with degradation accelerated by lower pH and higher temperatures.
+
+---
+
+### THE CREATININE PROBLEM: It's About Solution, Not Powder Age
+
+The degradation pathway that actually matters for consumers isn't shelf time — it's **what they mix it with**. Harris et al. reported that creatine is relatively stable for 3 days in solution at neutral pH (6.5–7.5), but the rate of degradation to creatinine increased when stored at 25°C as pH decreased (e.g., 4% at pH 5.5; 12% at pH 4.5; and 21% at pH 3.5).
+
+In practical terms: pre-mixed creatine solutions at pH around 3 to 4 may show measurable conversion to creatinine within 24 to 48 hours at room temperature. This strongly argues for the powder-format, mix-on-demand approach.
+
+---
+
+### ⚠️ FLAG: Where "Freshness" Doesn't Hold Up
+
+The freshness angle cannot credibly claim **potency preservation** in dry powder format — science shows a 2-year-old sealed bag is virtually identical to a new one. While many manufacturers list an expiration date of two years after production, stability data supports a longer shelf life for creatine monohydrate supplements.
+
+**However**, "freshness" CAN be defensibly repositioned around: (1) **moisture integrity** — freshly manufactured product has had zero humidity exposure, and any exposure to humidity, condensation, or direct water contact will kickstart the degradation process into creatinine; and (2) **solution freshness** — the instruction to mix immediately before drinking is scientifically valid and differentiating.
+
+---
+
+### BONUS: New Science Supporting the Product Concept
+
+A 2025 narrative review in *JISSN* confirms that creatine monohydrate is safe and has beneficial effects on measures of whole-body lean body mass, muscle strength, bone area and thickness, cognition and memory — directly relevant to the target demographic.
+
+---
+
+## FORMULA RECOMMENDATION:
+Reframe "freshness" from a **stability claim** (unsupported) to a **contamination integrity + solution-freshness claim** (supported). Add a desiccant packet and "mix immediately before drinking" instruction to every pouch. This converts the brand's narrative into scientifically defensible consumer guidance — and creates a ritual moment that competitors selling bulk tubs cannot replicate.
+
+---
