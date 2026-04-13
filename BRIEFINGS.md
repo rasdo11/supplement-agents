@@ -792,3 +792,100 @@ A 2025 narrative review in *JISSN* confirms that creatine monohydrate is safe an
 Reframe "freshness" from a **stability claim** (unsupported) to a **contamination integrity + solution-freshness claim** (supported). Add a desiccant packet and "mix immediately before drinking" instruction to every pouch. This converts the brand's narrative into scientifically defensible consumer guidance — and creates a ritual moment that competitors selling bulk tubs cannot replicate.
 
 ---
+## Monday, 2026-04-13
+
+### Sourcing
+
+---
+
+## SOURCING BRIEFING — Manufacturer Intel (Makers Nutrition, NutraScience Labs, Vitalpax) — April 13, 2026
+
+---
+
+### 🔑 MOST IMPORTANT FINDING:
+**Makers Nutrition is your strongest near-term bet for a bootstrap powder launch.** Third-party roundups as of early 2026 confirm while many large manufacturers have raised their Minimum Order Quantities (MOQs) to prohibitive levels, Makers Nutrition remains supportive of growing brands, and fast turnaround times (4-6 weeks for many standard products) are validated by a real client review confirming Makers Nutrition lived up to the promise of a 4-week turnaround time. That timeline is critical for your batch-drop model.
+
+---
+
+### 📌 BULLET FINDINGS:
+
+- **Makers Nutrition (Commack, NY) — STRONG SIGNAL:**
+Consistently ranked among the fastest-growing companies in America, Makers Nutrition is often cited as the "gold standard" for service in the industry. They operate as a true turnkey solution, handling everything from R&D and flavor profiling to label design and fulfillment. Verified client feedback highlights in-house FDA compliance saving time and legal fees on label compliance — a notable advantage for Ross as a solo founder. Their facility is FDA-registered and NSF GMP certified. **No third-party complaints surfaced** in this research cycle — only positive client reviews on their own site and third-party directories.
+
+- **NutraScience Labs (Farmingdale, NY) — CAUTION FLAG:**
+NutraScience Labs is not BBB Accredited, with a noted failure to respond to at least one filed complaint. On the positive side, NutraScience Labs has renewed its cGMP certification via NSF International for both its Farmingdale, NY and Hauppauge, NY facilities (renewed as recently as September 2025). However, for established brands needing scale, NutraScience Labs is a formidable partner, boasting over 120 years of combined team experience and specializing in high-volume production. That high-volume focus may make them less ideal for Ross's small first-run batch.
+
+- **Vitalpax (LaVerkin, UT) — SMALL BUT FLEXIBLE:**
+Established in 2014, Vitalpax is a family-owned business located in southern Utah, providing customers with premium quality nutritional products for any market, backed by science. They explicitly support small brands: their highly flexible manufacturing operation allows for the fulfillment of both large and small batch orders, and they claim to offer products and services on average 37% less than competitors. However, MOQs vary by dosage form, packaging, and ingredient constraints, and are discussed during scoping — meaning no public hard numbers. They also explicitly offer pilot or small-batch runs to de-risk scale-up, validate process parameters, and generate market test inventory. With only ~35 employees, capacity may be limited. Vitalpax has made significant strides in sustainable manufacturing with a commitment to eco-friendly practices and clean-label ingredients — an alignment win for Ross's wellness/longevity positioning.
+
+- **Industry-Wide Warning to Note:**
+Some manufacturers quote eight weeks and take twelve. Others respond to emails in hours. Some disappear for days. Lead times matter, but so does communication. You want a partner who updates you without being chased, flags problems early, and answers when you call. Vetting responsiveness before committing is essential for batch-drop timing.
+
+- **MOQ Benchmarks in the Wild:**
+MOQs vary widely. Some manufacturers like Atlantic Essential Products or Makers Nutrition may offer runs as low as 1,500 units — aligning well with a 150-pre-order trigger that could produce a first run in the 500–1,500 unit range.
+
+---
+
+### ✅ RECOMMENDED ACTION:
+**Email all three manufacturers this week with a single, specific RFQ:** state you need a custom powder blend (creatine monohydrate + magnesium glycinate), request their minimum batch size for powders specifically (NOT capsules), quote turnaround from PO to ship, and ask for a sample. Track who responds within 48 hours — responsiveness at the quote stage directly predicts how they'll behave mid-production. Makers Nutrition's Patrick Gillespie (confirmed active contact) and Vitalpax's team (via vitalpax.com contact form) are your first two calls.
+
+### Science
+
+---
+
+## SCIENCE BRIEFING — Stability Science — April 13, 2026
+
+---
+
+### 🔑 LEAD FINDING: Creatine Monohydrate Is Remarkably Stable in Dry Powder Form — But the "Freshness" Angle Requires Precise Framing
+
+---
+
+### 1. Dry Powder Stability: Science Is Reassuring (For Better or Worse for the Brand)
+
+Even when creatine monohydrate was stored at 60°C (140°F), creatinine could only be detected in trace amounts after **44 months** of storage. This is the key data point to understand: a creatine monohydrate supplement like Creapure has shown remarkable stability, with no signs of degradation for more than **three years**, even when stored above 100ºF (40ºC).
+
+**⚠️ FLAG FOR MARKETING:** The science does NOT support "freshness" as a meaningful potency variable for dry creatine monohydrate powder. Studies have shown remarkable stability, with no significant degradation observed even well beyond the two or three-year mark. A "made-to-order" claim cannot honestly be tied to superior potency in dry powder form.
+
+---
+
+### 2. Where Degradation IS Real: Moisture, pH & Solution State
+
+FTIR analysis revealed that **temperature** was the most significant factor affecting creatine stability, and each stress condition produced distinct spectral patterns indicating specific degradation pathways.
+
+Creatine is generally considered stable in powder form but demonstrates **significant instability in aqueous solutions**, with degradation accelerated by lower pH and higher temperatures.
+
+Creatine degrades to creatinine in solution at a faster rate as pH decreases and temperature increases. Harris et al. reported that at 25°C, degradation at pH 5.5 was 4%, at pH 4.5 was 12%, and at pH 3.5 was 21%.
+
+Creatine stability in **crystal form is very high** as long as it does not reach the deliquescence state (i.e., absorbs enough moisture to dissolve). This is the primary vulnerability: **moisture intrusion**.
+
+---
+
+### 3. Creatinine: The Degradation Product
+
+The main concern with creatine "going bad" is its degradation into creatinine — a waste product the body excretes through urine. While not harmful, creatinine is **metabolically inactive** and doesn't offer the same performance benefits, meaning the supplement loses potency.
+
+Importantly, the conversion of creatine to creatinine in the **gastrointestinal tract** is minimal regardless of transit time. So even older product that is still dry is likely being absorbed intact.
+
+---
+
+### 4. A 2025 Study Expands the Picture
+
+A 2025 multi-analytical study revealed both structural modifications and degradation product formation in creatine monohydrate, **extending beyond the traditionally studied creatine-to-creatinine conversion** — contributing new information for manufacturing, formulation, storage, and consumption practices. This is an emerging flag: other degradation compounds beyond creatinine may exist under stress conditions that are not yet fully characterized.
+
+---
+
+### 5. Where "Freshness" IS Defensible
+
+The honest freshness angle is **not potency** — it's **moisture protection and quality assurance**:
+
+- Dryness is paramount. In a dry, sealed environment, creatine monohydrate is incredibly stable. Any exposure to humidity, condensation, or direct water contact will kickstart the degradation process into creatinine.
+- A made-to-order model means **shorter time in warehouse = less cumulative humidity exposure risk** — this is the scientifically defensible freshness argument.
+- Supplements are frequently exempt from the comprehensive testing protocols mandated for drugs, potentially creating inconsistencies in quality assessment and shelf-life determination. Small-batch, made-to-order *can* legitimately signal tighter QC.
+
+---
+
+### FORMULA RECOMMENDATION:
+**Invest in moisture-barrier packaging (foil-laminate sachets or desiccant-lined pouches) and print the batch/manufacture date prominently on each unit.** This transforms "freshness" from a vague marketing claim into a verifiable, science-grounded QC statement. The honest angle: *"Manufactured to order = minimum warehouse time = delivered at its driest, most protected state."* Avoid claiming superior potency due to freshness — the stability data doesn't support it and could attract regulatory scrutiny.
+
+---
