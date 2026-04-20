@@ -889,3 +889,96 @@ The honest freshness angle is **not potency** — it's **moisture protection and
 **Invest in moisture-barrier packaging (foil-laminate sachets or desiccant-lined pouches) and print the batch/manufacture date prominently on each unit.** This transforms "freshness" from a vague marketing claim into a verifiable, science-grounded QC statement. The honest angle: *"Manufactured to order = minimum warehouse time = delivered at its driest, most protected state."* Avoid claiming superior potency due to freshness — the stability data doesn't support it and could attract regulatory scrutiny.
 
 ---
+## Monday, 2026-04-20
+
+### Sourcing
+
+---
+
+## SOURCING BRIEFING — Manufacturer Intel — April 20, 2026
+
+**⚡ TOP FINDING: Vitalpax is Ross's strongest fit for a bootstrap "batch drop" model.** Of the three manufacturers, Vitalpax is the only one explicitly designed for small-batch, startup-friendly orders with an ~8-week lead time — roughly half the industry standard — and confirmed pilot/small-batch run availability. The other two are credible but skew toward higher volumes or show organizational red flags.
+
+---
+
+### 🔵 MAKERS NUTRITION (Commack/Hauppauge, NY)
+- Consistently ranked among the fastest-growing companies in America, Makers Nutrition "continues to excel" in 2026 largely due to accessibility — while many large manufacturers have raised MOQs to prohibitive levels, Makers Nutrition remains supportive of growing brands.
+- Turnaround time cited at **4–6 weeks for standard products**, and they are described as best for "startups and mid-sized brands that need a high-touch service partner."
+- Verified third-party data: Makers Nutrition stock formulas start at a **500-bottle minimum** with 4–6 week lead time.
+- They are FDA-registered, NSF GMP certified, and won the **2026 Business Intelligence Group Best Places to Work Award**.
+- ⚠️ No significant client complaints surfaced — but NutraScience Labs appears to have only ~5 employees as of February 2026, raising questions (see below). Makers Nutrition is ~28 people — small but stable.
+
+---
+
+### 🟡 NUTRASCIENCE LABS (Farmingdale, NY)
+- NutraScience Labs is a subsidiary of Twinlab Consolidation Corporation (TCC), which introduces **parent-company financial risk** for a startup client depending on them.
+- Not BBB accredited, with a noted **failure to respond to at least 1 BBB complaint**.
+- They tout "rapid lead times," 48-hour price quotes, and cGMP compliance — and specifically mention **powder flavoring capabilities**, which is relevant for Ross's powder format.
+- ⚠️ **Red flag**: Only ~5 employees listed as of early 2026. This may reflect a lean back-office, but warrants a direct call to verify current production capacity.
+
+---
+
+### 🟢 VITALPAX (LaVerkin, UT) — **Leading Candidate for Ross**
+- Vitalpax's own leadership states: "A lot of manufacturers give four-month lead times. We're more like **eight weeks**."
+- Pilot or **small-batch runs are explicitly available** to de-risk scale-up, validate process parameters, and generate market test inventory.
+- They operate an FDA-registered, cGMP-compliant facility in La Verkin, Utah, holding **NSF, USDA Organic, Halal, and Kosher certifications**, producing capsules, tablets, softgels, powders, stick packs, and more.
+- Vitalpax's openness to small orders is a documented differentiator — "we're very hands-on, we really take an interest in helping them fulfill the idea from start to finish when they lack the experience."
+- ⚠️ Minor internal culture complaints on Indeed (management/language barrier issues), but these are **employee reviews, not client reviews** — no B2B service complaints found.
+- Vitalpax was also recognized as a **2026 Trailblazer Award finalist**, signaling continued momentum.
+
+---
+
+### RECOMMENDED ACTION:
+**Call Vitalpax this week and ask specifically:** (1) What is the MOQ for a custom powder blend (creatine monohydrate + magnesium glycinate) in pouches or tubs? (2) Do they support stick-pack format? (3) Can they confirm an 8-week or faster lead time for a first run under 500 units? Get it in writing before requesting a quote from Makers Nutrition as a backup. Hold NutraScience for now pending clarification on their staffing/capacity situation.
+
+### Science
+
+**SCIENCE BRIEFING — Stability Science — April 20, 2026**
+
+---
+
+**🔑 LEAD FINDING: The "freshness" angle is emotionally compelling but scientifically nuanced. Here's the full picture.**
+
+---
+
+### Powder Stability: Remarkably Strong
+
+Creatine monohydrate is very stable in powder form, showing no signs of degradation to creatinine over years, even at elevated temperatures. Specifically, Jäger reported that CrM powder showed no signs of degrading to creatinine even at temperatures up to 40°C (104°F) for more than three years. Even when stored at 60°C (140°F), creatinine could only be detected in trace amounts after 44 months of storage.
+
+While many manufacturers list an expiration date of two years after production, stability data supports a longer shelf life. For instance, Creapure has shown remarkable stability with no signs of degradation for more than three years, even when stored above 100°F (40°C) — and creatinine was only detected in trace amounts after more than three-and-a-half years.
+
+---
+
+### ⚠️ Where Freshness DOES Matter: The Solution Problem
+
+This is the real scientific hook for the marketing angle.
+
+Creatine is not as stable in solution due to intramolecular cyclization that converts creatine to creatinine. The degradation rate increases as pH decreases and temperature increases. Harris et al. reported creatine is relatively stable for 3 days in solution at neutral pH (6.5–7.5), but degradation to creatinine increased at 25°C when pH decreased (4% at pH 5.5; 12% at pH 4.5; 21% at pH 3.5).
+
+When creatine is blended with flavors, sweeteners, or electrolytes, those extra ingredients can shorten its shelf life. Liquids, in particular, are a no-go — creatine mixed in water or juice starts breaking down into creatinine within hours.
+
+---
+
+### ⚠️ Quality Variance at Manufacture: The Real Freshness Gap
+
+Degradation of creatine monohydrate during manufacture or storage produces creatinine. Analyses of several commercial creatines on the market have revealed creatinine rates of over 1%, indicating poor quality production. Poor-quality creatine can contain high levels of creatinine, which not only reduces effectiveness but can distort blood test results when monitoring kidney health.
+
+This is the **strongest** scientific justification for "freshness" positioning — **manufacturing quality and turnover time matter at the raw material level.**
+
+---
+
+### New 2025 Research Flag
+
+A 2025 ScienceDirect study simulated stress conditions including thermal stress, light exposure, pH variations, and common beverage matrices to comprehensively understand creatine's behavior in formulations, potentially revealing new degradation pathways — with findings offering insights for manufacturers on optimal storage and consumption practices. Full text is paywalled, but this signals that **degradation science beyond creatinine conversion is still being actively mapped.**
+
+---
+
+### Regulatory Note
+The FDA classifies creatine monohydrate as a GRAS (Generally Recognized as Safe) ingredient, while recent European regulations have established a maximum safe daily intake of 3g for all age groups.
+
+---
+
+### FORMULA RECOMMENDATION:
+**Source exclusively from Creapure®-certified creatine** (AlzChem, Germany — pharmaceutical-grade QC standards). This directly supports the freshness/purity narrative with a verifiable third-party credential. Pair with airtight, single-serve sachets rather than a bulk tub — each sachet is sealed at manufacture, preventing the moisture exposure that triggers real-world degradation. This turns "freshness" from a soft emotional claim into a tangible packaging advantage: *every serving is as protected as the day it was made.*
+
+---
