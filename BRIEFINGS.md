@@ -982,3 +982,102 @@ The FDA classifies creatine monohydrate as a GRAS (Generally Recognized as Safe)
 **Source exclusively from Creapure®-certified creatine** (AlzChem, Germany — pharmaceutical-grade QC standards). This directly supports the freshness/purity narrative with a verifiable third-party credential. Pair with airtight, single-serve sachets rather than a bulk tub — each sachet is sealed at manufacture, preventing the moisture exposure that triggers real-world degradation. This turns "freshness" from a soft emotional claim into a tangible packaging advantage: *every serving is as protected as the day it was made.*
 
 ---
+## Monday, 2026-04-27
+
+### Sourcing
+
+**SOURCING BRIEFING — Manufacturer Intel — April 27, 2026**
+
+---
+
+**🔑 TOP FINDING: Makers Nutrition is the strongest all-around option for a bootstrap powder brand, but NutraScience Labs shows a concerning headcount red flag worth investigating before committing. Vitalpax is a solid wildcard with powder/stick-pack capability and small-batch flexibility.**
+
+---
+
+**MAKERS NUTRITION (Commack, NY)**
+
+- Consistently ranked among the fastest-growing companies in America and often cited as a "gold standard" for service — they operate as a true turnkey solution, handling everything from R&D and flavor profiling to label design and fulfillment, and in 2026 continue to excel due to their accessibility.
+- While many large manufacturers have raised their MOQs to prohibitive levels, Makers Nutrition remains supportive of growing brands. Their facility is FDA-registered and NSF GMP certified.
+- Turnaround time is cited at **4–6 weeks** for many standard products. Best suited for startups and mid-sized brands needing a high-touch service partner.
+- One client review specifically confirmed: "Makers Nutrition lived up [to] the promise of 4 week turnaround time."
+- They also offer a **48-hour quote process**, which is helpful for fast comparisons.
+- ✅ **No public complaints found on BBB or third-party review sites.** Sentiment is overwhelmingly positive across reviews.
+
+---
+
+**NUTRASCIENCE LABS (Farmingdale, NY)**
+
+- Claims over 2,300 supplement companies trust them; they are a subsidiary of Twinlab Consolidation Corporation and specialize in custom capsule, tablet, powder, and soft gel products.
+- Self-reported strengths include "rapid lead times," "out-of-the-box powder supplement flavoring capabilities," and quotes within **48 business hours**.
+- ⚠️ **Major red flag:** As of February 2026, NutraScience Labs has only approximately **5 employees**. For a contract manufacturer handling thousands of brands, this is a dramatic staffing signal — possibly indicating heavy outsourcing, parent company restructuring, or reduced internal operations. Warrants direct inquiry.
+- Additionally, NutraScience Labs is **not BBB Accredited** and has a logged failure to respond to at least one complaint.
+
+---
+
+**VITALPAX (LaVerkin, UT)**
+
+- Claims customers can get selling "57% faster" due to quick turnaround and short lead times — and states they "don't take any business for granted, no matter what size."
+- Explicitly supports **powder formulas** in compact stick packs — directly relevant to Ross's product format.
+- **Pilot/small-batch runs are available** to de-risk scale-up, validate process parameters, and generate market test inventory — a significant plus for a batch-drop model.
+- Uses FTIR & TLC for raw material ID in-house, confirming ingredient integrity before manufacturing.
+- Birdeye rating: **4.1 stars across 25 reviews** — modest but positive. No major client-facing complaints found.
+- ⚠️ Some negative employee reviews note management/communication issues internally, but no client-side production complaints surfaced.
+
+---
+
+**RECOMMENDED ACTION:**
+Call NutraScience Labs directly and ask point-blank: *"How many production staff do you currently have on the floor, and what is your current average lead time for a powder SKU under 500 units?"* Their answer (or evasion) will quickly tell you whether the 5-employee headcount signals a capacity problem. If they can't give clear answers, deprioritize them and focus your RFQ energy on Makers Nutrition first, with Vitalpax as your small-batch/stick-pack backup.
+
+### Science
+
+---
+
+## SCIENCE BRIEFING — Stability Science — April 27, 2026
+
+---
+
+### 🔑 LEAD FINDING: The "Freshness" Angle Is **Partially Defensible** — But the Threat Vector Is Moisture, Not Time
+
+The science is nuanced. Creatine monohydrate in dry powder form is remarkably stable, but there **is** a real and legitimate degradation threat that "freshness" marketing can honestly address — and it's not what most people assume.
+
+---
+
+### ⏱️ Shelf Life: Surprisingly Long in Dry Form
+
+Creapure-grade creatine monohydrate has shown remarkable stability with no signs of degradation for more than three years, even when stored above 100°F (40°C) — and creatinine, the degradation product, was only detected in trace amounts after more than three-and-a-half years.
+
+Pure creatine monohydrate powder is exceptionally stable in its dry state, with studies showing less than 5% degradation after four years at room temperature.
+
+**⚠️ Flag for Ross:** This data cuts *against* a "freshness = potency" narrative for the dry ingredient itself. A 2-year-old batch of creatine powder stored properly is functionally indistinguishable from a 2-week-old batch.
+
+---
+
+### 💧 The REAL Degradation Threat: Moisture & Humidity
+
+This is where the freshness angle **gains ground**. Moisture is the biggest culprit behind creatine degradation and clumping — creatine is **hygroscopic**, meaning it readily absorbs water vapor from the atmosphere.
+
+Creatine is generally considered stable in powder form but demonstrates significant instability in aqueous solutions, with degradation accelerated by lower pH and higher temperatures. The primary degradation pathway involves cyclization to form creatinine.
+
+Creatine's stability decreases significantly when dissolved in liquid, especially in acidic drinks, and in liquid form it begins to convert to creatinine within **hours**.
+
+Additionally, a **2025 ScienceDirect study** used multi-analytical techniques (ATR-FTIR + mass spectrometry) to stress-test commercial creatine under heat, light, pH variation, and beverage matrices, noting that comprehensive characterization of degradation products beyond creatinine remains limited — creating a knowledge gap in understanding the full spectrum of potential degradation compounds.
+
+---
+
+### 🧪 Creatinine in Existing Commercial Products — A Real Quality Issue
+
+A survey of 33 supplements commercially available in Italy found that over 50% exceeded EFSA recommendations for at least one contaminant — with creatinine (a breakdown product) present in higher concentrations than recommended in **44% of the samples**.
+
+**✅ This directly supports the freshness and small-batch narrative.** Older stock sitting in warehouse conditions may accumulate creatinine from moisture exposure and poor packaging seals — especially in large-batch, big-box retail products.
+
+---
+
+### 🏷️ Regulatory Note
+Unlike pharmaceutical products, which are subject to stringent international guidelines for stability testing, dietary supplements face a more fragmented regulatory landscape — and often lack global consensus on stability testing protocols. This means brands can differentiate on *voluntary* freshness testing.
+
+---
+
+### FORMULA RECOMMENDATION:
+**Adopt single-serve, nitrogen-flushed sachets with desiccant-layer packaging.** Flavorings and sweeteners can absorb moisture and may shorten shelf life compared to unflavored powder — so keep the formula **unflavored** to maximize stability and packaging simplicity. Include a printed "packed on" date (not just expiration), and add a silica desiccant insert. This makes the freshness claim *operational and verifiable*, not just marketing language — and directly addresses the real creatinine contamination risk found in legacy commercial products.
+
+---
