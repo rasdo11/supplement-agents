@@ -1081,3 +1081,108 @@ Unlike pharmaceutical products, which are subject to stringent international gui
 **Adopt single-serve, nitrogen-flushed sachets with desiccant-layer packaging.** Flavorings and sweeteners can absorb moisture and may shorten shelf life compared to unflavored powder — so keep the formula **unflavored** to maximize stability and packaging simplicity. Include a printed "packed on" date (not just expiration), and add a silica desiccant insert. This makes the freshness claim *operational and verifiable*, not just marketing language — and directly addresses the real creatinine contamination risk found in legacy commercial products.
 
 ---
+## Monday, 2026-05-04
+
+### Sourcing
+
+---
+
+**SOURCING BRIEFING — Manufacturer Intel — May 4, 2026**
+
+---
+
+**🔑 MOST IMPORTANT FINDING: Vitalpax is your strongest bootstrap fit — they explicitly offer small-batch runs, claim ~8-week lead times (vs. industry-standard 16 weeks), and self-report pricing 37% below competitors. This is the most differentiated pitch of the three manufacturers for your batch-drop model.**
+
+---
+
+**MAKERS NUTRITION (Commack/Hauppauge, NY)**
+
+- Makers Nutrition holds a **4.4-star rating across 461 reviews** on Birdeye — the largest independent review base of the three. No major red flags surfaced in third-party forums.
+- Customers confirm they **"lived up to the promise of a 4-week turnaround time"** — the fastest stated lead time of the three manufacturers.
+- Their stated **MOQ is 500 units**, which is workable for a batch-drop model targeting 150 pre-orders.
+- They are an **Inc. 5000 Fastest-Growing Company**, operating an FDA-registered, GMP-compliant facility, and recently won the **2026 Business Intelligence Group Best Places to Work Award** — signals organizational stability.
+- Reviewers specifically call out **in-house FDA label compliance** as a major value-add that "saves a lot of time and legal fees."
+
+---
+
+**NUTRASCIENCE LABS (Farmingdale, NY)**
+
+- **Not BBB Accredited** and has a logged complaint with **failure to respond** — a yellow flag worth noting.
+- As of February 2026, NutraScience Labs has **approximately 5 employees** — a notably small team that could create responsiveness issues for a bootstrapped brand needing hand-holding.
+- They specialize in **capsules, tablets, powders, and soft gels** with over 50 years of nutraceutical manufacturing experience — deep expertise but the organizational size is a concern.
+- One positive: they have demonstrated **recent facility expansion into Hauppauge**, suggesting they're investing in capacity.
+
+---
+
+**VITALPAX (LaVerkin, UT)**
+
+- Vitalpax touts a turnaround time **"about half the industry average" — roughly 8 weeks** vs. the typical 4-month lead time from competitors, and handles both small-batch and high-volume production.
+- They claim to offer products and services **"on average 37% less than competitors."**
+- **Pilot/small-batch runs are explicitly available** "to de-risk scale-up, validate process parameters, and generate market test inventory" — a direct match for your batch-drop business model.
+- Certifications include **USDA Organic, Kosher, Halal, and SGS**, plus BBB accreditation — strong credibility stack.
+- One known challenge: **talent scarcity in rural Utah** — Vitalpax has noted difficulty finding equipment operators locally, which could affect production consistency at scale.
+
+---
+
+**RECOMMENDED ACTION:**
+Call Vitalpax this week (📞 1-866-848-2588) and ask specifically for a quote on a **small-batch powder run** of creatine monohydrate + magnesium glycinate, a tub/pouch packaging option, and their **minimum batch size in kg** — not units. Also ask directly: *"Can production begin before we've placed a full MOQ, contingent on pre-order confirmation?"* Their small-batch philosophy makes them the most likely to say yes to your batch-drop structure. Use competing quotes from Makers Nutrition as negotiating leverage.
+
+### Science
+
+---
+
+## SCIENCE BRIEFING — Stability Science — May 4, 2026
+
+---
+
+### 🔑 LEAD FINDING: The "Freshness" Angle Is *Conditionally* Defensible — But Only in Powder Form
+
+The good news for Ross: the science on creatine monohydrate powder stability is rock solid — and actually *reframes* the freshness story in a nuanced, important way.
+
+---
+
+### 📦 Powder Stability: Surprisingly Robust
+
+Creatine monohydrate is very stable in powder form, showing no signs of degradation to creatinine over years, even at elevated temperatures. Jäger reported that CrM powder showed no signs of degrading to creatinine even with temperatures up to 40°C (104°F) for more than three years. Even when CrM was stored at 60°C (140°F), creatinine could only be detected in trace amounts after 44 months of storage.
+
+⚠️ **FLAG FOR MARKETING:** This cuts against a simplistic "freshness = potency" pitch for powder. A 2-year-old sealed bag of CrM is essentially just as potent as a freshly made batch. Do **not** imply that older powder loses significant potency — the science doesn't support it.
+
+---
+
+### 💧 Solution Stability: Where Freshness ACTUALLY Matters
+
+Creatine is generally considered stable in powder form but demonstrates significant instability in aqueous solutions, with degradation accelerated by lower pH and higher temperatures.
+
+Researchers found that whereas creatine was relatively stable in solution at neutral pH (7.5 or 6.5), a lowering of pH resulted in an increased rate of degradation — after only 3 days of storage at 25°C creatine degraded significantly: 4% at pH 5.5; 12% at pH 4.5; and 21% at pH 3.5.
+
+The rapid degradation of creatine in solution precludes the manufacture of shelf-stable standard acidic beverages containing efficacious amounts of the ingredient.
+
+✅ **REAL FRESHNESS OPPORTUNITY:** This is where the "mix-to-order" angle has **genuine scientific teeth.** A fresh powder sachet mixed at time of consumption delivers meaningfully more intact creatine than a pre-mixed liquid product.
+
+---
+
+### 🔬 The Creatinine Conversion — What It Means
+
+Since stomach acid is generally less than pH 2.5, less than 1% of CrM is degraded to creatinine during digestion and 99% of creatine is taken up by tissue or excreted in urine after ingestion.
+
+Creatinine is biologically inert — the primary degradation product of creatine is creatinine, a waste product that the kidneys filter out of the blood. Its presence in a supplement indicates a loss of the beneficial creatine itself.
+
+---
+
+### 🆕 2025 Research Update
+
+A September 2025 multi-analytical study found that temperature was the most significant factor affecting creatine stability, and that solution-based degradations exhibited matrix-dependent profiles with distinct patterns for each beverage type. This approach provides a more comprehensive understanding of creatine degradation beyond the traditionally studied creatine-to-creatinine conversion.
+
+---
+
+### 🚨 Moisture = The #1 Enemy in Powder Format
+
+One of the most common signs of degradation is clumping. Creatine powder can absorb moisture from the air, causing it to stick together. While clumpy creatine isn't necessarily unsafe to consume, it can indicate that some moisture has infiltrated the product, potentially leading to a slight reduction in potency over time.
+
+---
+
+### ✅ FORMULA RECOMMENDATION:
+
+**Reframe "freshness" away from powder age and toward single-serve, sealed sachets.** Packaging in individual nitrogen-flushed, moisture-barrier sachets (rather than a shared tub) is both scientifically defensible and emotionally resonant. Each sachet stays inert until opened; clumping (the real enemy) is eliminated. The marketing claim becomes: *"Every sachet is sealed at peak purity — no shared tubs, no moisture exposure, no guesswork"* — which the stability science fully supports.
+
+---
